@@ -1,0 +1,7 @@
+{
+  "name": "LogHarbor",
+  "engine": "logharbor",
+  "port": 8114,
+  "kind": "logs",
+  "fixture": "fixtures/service-mixed.log"
+}

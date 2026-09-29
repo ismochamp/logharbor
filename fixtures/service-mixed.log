@@ -1,0 +1,15 @@
+2026-09-28T09:14:01+02:00 INFO billing-worker started reconciliation batch 1842
+2026-09-28T09:14:02+02:00 DEBUG cache lookup completed for account 207
+2026-09-28T09:14:03+02:00 WARN upstream response time above configured threshold
+2026-09-28T09:14:04+02:00 ERROR payment-adapter timeout after 3000ms; retry queued
+192.0.2.10 - - [28/Sep/2026:09:14:05 +0200] "POST /api/invoices HTTP/1.1" 502 184
+Sep 28 07:14:06 archive-host scheduler[412]: INFO daily archive rotation complete
+2026-09-28T07:14:07Z INFO retry succeeded; transaction reconciled
+2026-09-28T07:14:08Z ERROR document-worker permission denied on import directory
+192.0.2.11 - - [28/Sep/2026:09:14:09 +0200] "GET /health HTTP/1.1" 200 32
+Sep 28 07:14:10 archive-host legacy-agent[188]: WARNING disk threshold reached
+2026-09-28T07:14:11Z CRITICAL report-engine database connection unavailable
+2026-09-28T07:14:12Z INFO operator notification recorded locally
+malformed entry with no timestamp -- intentional diagnostic fixture
+2026-02-30T07:14:13Z ERROR invalid calendar date fixture
+2026-09-28T07:14:14Z INFO end of synthetic fixture
