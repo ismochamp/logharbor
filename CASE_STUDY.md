@@ -40,5 +40,5 @@ This project demonstrates modernization-support engineering. It is not represent
 - Local Python dashboard with a start script
 - Input fixtures and executable tests
 - CSV, JSON and HTML export routes
-- Malt description, case study, verification record and screenshot captions
+- Case study, verification record and screenshot captions
 - Actual browser screenshots and portfolio PDF added during final packaging
