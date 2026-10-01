@@ -70,9 +70,7 @@ The server accepts only local browser requests and never sends input to external
 
 ## Project documentation
 
-- [Case study](CASE_STUDY.md)
 - [Recorded verification](TEST_RESULTS.md)
-- [Portfolio PDF](PORTFOLIO.pdf)
 - [Screenshot captions](screenshots/CAPTIONS.md)
 
 ## License
